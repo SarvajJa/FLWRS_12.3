@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+sympy
+numba
+h5py
+pandas
+pyfftw
+jupyterlab
+scikit-learn
+torch
+tqdm
