@@ -1,0 +1,19 @@
+name: flwrs-12.3
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - numpy
+    - scipy
+    - matplotlib
+    - sympy
+    - numba
+    - h5py
+    - pandas
+    - pyfftw
+    - jupyterlab
+    - scikit-learn
+    - torch
+    - tqdm
